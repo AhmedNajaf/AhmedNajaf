@@ -26,7 +26,7 @@
 🔗 [View Project](https://github.com/YOUR_USERNAME/credit-card-fraud-detection)
 
 ### 🌍 Personal Carbon Footprint Estimator *(MSc Project)*  
-🛠️ Full-stack app using React, Node.js, PostgreSQL  
+🛠️ Full-stack app using React, Tailwind, Firebase  
 🤖 Integrated with DeepSeek R1 via OpenRouter for AI suggestions  
 🔗 [Work in Progress Repo](https://github.com/YOUR_USERNAME/carbon-footprint-estimator)
 
