@@ -1,16 +1,45 @@
-## Hi there 👋
+![Banner](https://i.imgur.com/O3ZQ9Fz.png)
 
-<!--
-**AhmedNajaf/AhmedNajaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Ahmed Najaf
+🎓 MSc Computer Science with AI (Keele University)  
+🛠️ Junior Backend Developer | AI Integrator | Project Builder  
+🌱 Currently learning: Machine Learning, Prompt Engineering, DeepSeek
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🧠 Credit Card Fraud Detection  
+📌 Machine Learning model using Random Forest, SMOTE & GridSearchCV  
+📊 Precision, recall, F1 Score with visualized confusion matrix  
+🔗 [View Project](https://github.com/YOUR_USERNAME/credit-card-fraud-detection)
+
+### 🌍 Personal Carbon Footprint Estimator *(MSc Project)*  
+🛠️ Full-stack app using React, Node.js, PostgreSQL  
+🤖 Integrated with DeepSeek R1 via OpenRouter for AI suggestions  
+🔗 [Work in Progress Repo](https://github.com/YOUR_USERNAME/carbon-footprint-estimator)
+
+---
+
+## 📊 GitHub Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmednajaf&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednajaf&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+📧 ahmednajaf261@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/YOUR-LINK) *(optional)*  
