@@ -1,4 +1,4 @@
-![Banner]([https://i.imgur.com/O3ZQ9Fz.png](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4Nnk5bGJvNnZwcDhsZ2QyaXZ5OW84Zzh5d3RmZzR5bnc4dGRveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif))
+![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4Nnk5bGJvNnZwcDhsZ2QyaXZ5OW84Zzh5d3RmZzR5bnc4dGRveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 # 👋 Hi, I’m Ahmed Najaf
 🎓 MSc Computer Science with AI (Keele University)  
