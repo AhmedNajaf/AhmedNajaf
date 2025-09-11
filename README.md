@@ -28,7 +28,7 @@
 ### 🌍 Personal Carbon Footprint Estimator *(MSc Project)*  
 🛠️ Full-stack app using React, Tailwind, Firebase  
 🤖 Integrated with DeepSeek R1 via OpenRouter for AI suggestions  
-🔗 [Work in Progress Repo](https://github.com/AhmedNajaf/Carbonly)
+🔗 [View Project](https://github.com/AhmedNajaf/Carbonly)
 
 ---
 
